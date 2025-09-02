@@ -1,6 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-## NAME: PRAVEEN RAJ R
-## REG.NO: 212224230207
+## NAME: NIRALYA.J
+## REG.NO: 212224230188
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
